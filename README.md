@@ -43,14 +43,16 @@ Download or clone this repo and open the `machine-learning` folder to get starte
 | 2  | Data Prep and Feature Engineering           |  [02 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/02-Data%20Preparation%20and%20Feature%20Engineering.ipynb)
 | 3  | Training and AutoML                         |  [03 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/03-Training%20and%20AutoML.ipynb)
 | 4  | Model Evaluation                            |  [04 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/04-Model%20Evaluation.ipynb)                      
+| 5 | AutoML Sweepable API | [05 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/05%20-%20AutoML%20Sweepable%20API.ipynb)
+| 6 | AutoML Tuners | [06 Notebook](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/06-AutoML%20HPO%20and%20tuner.ipynb)
 
 ### End to End (E2E) Notebooks  - examples of the entire ML process.
 | # | Topic                                      |  Github Link |
 |---|--------------------------------------------|--------------|
-E2E | Classification using AutoML (Iris Dataset) |  [Iris E2E AutoML](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Classification%20with%20I
-E2E | Forecasting using Regression (Luna Dataset)|  [Luna E2E Regression](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Forecasting%20using%
-E2E | Forecasting using SSA (Luna Dataset)       |  [Luna E2E SSA](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Forecasting%20using%20SSA
-E2E | Regression using AutoML (Taxi Dataset)     |  [Taxi E2E AutoML](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Regression%20with%20Taxi%
+E2E | Classification using AutoML (Iris Dataset) |  [Iris E2E AutoML](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Classification%20with%20Iris%20Dataset.ipynb)
+E2E | Forecasting using Regression (Luna Dataset)|  [Luna E2E Regression](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Forecasting%20using%20Autoregressive%20with%20Luna%20Dataset.ipynb)
+E2E | Forecasting using SSA (Luna Dataset)       |  [Luna E2E SSA](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Forecasting%20using%20SSA%20with%20Luna%20Dataset.ipynb)
+E2E | Regression using AutoML (Taxi Dataset)     |  [Taxi E2E AutoML](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Regression%20with%20Taxi%20Dataset.ipynb)
 E2E | Text Classification API (Yelp Dataset)     |  [Text Classification API](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/E2E-Text-Classification-API-with-Yelp-Dataset.ipynb)          
 
 
@@ -60,6 +62,7 @@ E2E | Text Classification API (Yelp Dataset)     |  [Text Classification API](ht
 REF | Data Processing with DataFrame             | [Data Frame](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Data%20Processing%20with%20DataFrame.ipynb)  
 REF | Graphs and Visualizations                  | [Visualizations](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Graphs%20and%20Visualizations.ipynb)
 REF | Kaggle Competitions (Titanic Dataset)      | [Kaggle](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Kaggle%20with%20Titanic%20Dataset.ipynb) 
+REF | AutoML Search Space | [AutoML Search Space](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/Parameter%20and%20SearchSpace.ipynb)
 
 ## .NET Foundation
 
